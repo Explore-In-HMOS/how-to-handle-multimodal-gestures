@@ -1,0 +1,21 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Multi-modal gestures and sensors sample" },
+    { "name": "EntryAbility_desc", "value": "Combines touch, digital crown and tilt input" },
+    { "name": "EntryAbility_label", "value": "GestureMix" },
+    { "name": "settings", "value": "Settings" },
+    { "name": "deadzone", "value": "Deadzone (m/s²)" },
+    { "name": "alpha", "value": "Low-pass α" },
+    { "name": "sensitivity", "value": "Touch sensitivity" },
+    { "name": "inertia", "value": "Inertia after pan" },
+    { "name": "simulated_tilt", "value": "Simulated tilt" },
+    { "name": "sim_jitter", "value": "Add wrist jitter" },
+    { "name": "sim_tilt_x", "value": "Tilt X (m/s²)" },
+    { "name": "sim_tilt_y", "value": "Tilt Y (m/s²)" },
+    { "name": "chart", "value": "X axis: raw (gray) / filtered (green)" },
+    { "name": "subscriptions", "value": "Active subscriptions" },
+    { "name": "btn_center", "value": "Center" },
+    { "name": "event_log", "value": "Event log" },
+    { "name": "close", "value": "Close" }
+  ]
+}
